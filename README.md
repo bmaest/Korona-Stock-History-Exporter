@@ -26,5 +26,5 @@ The final output is a formatted Excel file showing the calculated stock levels f
 ## Usage
 
 ```bash
-python korona_stock_export.py --date YYYY-MM-DD
+python historicalInventory.py
 

@@ -20,7 +20,7 @@ The final output is a formatted Excel file showing the calculated stock levels f
 
 - Python 3.8+
 - `requests`
-- `openpyxl` or `pandas` (depending on your Excel export method)
+- `openpyxl`
 - Korona Studio API credentials
 
 ## Usage

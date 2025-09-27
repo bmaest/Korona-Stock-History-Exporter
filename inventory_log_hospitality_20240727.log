@@ -1,0 +1,192 @@
+2025-08-28 09:16:21,454 — INFO — 🚀 Script started
+2025-08-28 09:16:21,454 — INFO — Target date set to: 2024-07-27
+2025-08-28 09:16:21,454 — INFO — Organizational Unit filter set to: hospitality
+2025-08-28 09:16:21,456 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/products
+2025-08-28 09:16:21,811 — INFO — Response Status: 200
+2025-08-28 09:16:21,843 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/inventories
+2025-08-28 09:16:22,026 — INFO — Response Status: 200
+2025-08-28 09:16:22,029 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/inventories/ee2f7c33-c0bc-432f-8697-8c330dc46f3e/inventoryLists
+2025-08-28 09:16:22,160 — INFO — Response Status: 200
+2025-08-28 09:16:22,162 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/inventories/ee2f7c33-c0bc-432f-8697-8c330dc46f3e/inventoryLists/0d3e6580-0407-467f-879b-ed363a618fc4/items
+2025-08-28 09:16:22,326 — INFO — Response Status: 200
+2025-08-28 09:16:22,327 — INFO — 🚫 Skipped deleted product UUID: acbb2234-5522-493a-99bc-dbfbb19fef69
+2025-08-28 09:16:22,328 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts
+2025-08-28 09:16:22,599 — INFO — Response Status: 200
+2025-08-28 09:16:22,603 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/2aa07323-e9de-45ec-954e-3a397c61a660/items
+2025-08-28 09:16:22,787 — INFO — Response Status: 204
+2025-08-28 09:16:22,787 — WARNING — No content returned.
+2025-08-28 09:16:22,789 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/445f957b-cac9-40cb-bf8a-5cd7e22f3bdc/items
+2025-08-28 09:16:22,912 — INFO — Response Status: 204
+2025-08-28 09:16:22,912 — WARNING — No content returned.
+2025-08-28 09:16:22,914 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/5905f163-4a07-444c-a4ab-781508e51184/items
+2025-08-28 09:16:23,079 — INFO — Response Status: 204
+2025-08-28 09:16:23,079 — WARNING — No content returned.
+2025-08-28 09:16:23,081 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/70695b9d-cbac-42dc-9d50-862f11e249f4/items
+2025-08-28 09:16:23,213 — INFO — Response Status: 204
+2025-08-28 09:16:23,214 — WARNING — No content returned.
+2025-08-28 09:16:23,215 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/807ca0b7-4c6c-43d8-a7f2-c7e67e0e95f9/items
+2025-08-28 09:16:23,365 — INFO — Response Status: 200
+2025-08-28 09:16:23,367 — INFO — 🚫 Skipped deleted product UUID: c70b30ef-8fb3-4a21-9131-f92503f561e7
+2025-08-28 09:16:23,367 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/86dee13f-473b-4613-8d57-ae70b7578609/items
+2025-08-28 09:16:23,499 — INFO — Response Status: 204
+2025-08-28 09:16:23,500 — WARNING — No content returned.
+2025-08-28 09:16:23,501 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/a36ebbc0-416e-4d40-8d70-8490a3fa744b/items
+2025-08-28 09:16:23,649 — INFO — Response Status: 204
+2025-08-28 09:16:23,649 — WARNING — No content returned.
+2025-08-28 09:16:23,651 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/b6177d04-255f-42e6-a78c-9a67edfb776d/items
+2025-08-28 09:16:23,791 — INFO — Response Status: 200
+2025-08-28 09:16:23,793 — INFO — 🚫 Skipped deleted product UUID: c70b30ef-8fb3-4a21-9131-f92503f561e7
+2025-08-28 09:16:23,793 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockAdjustments
+2025-08-28 09:16:23,967 — INFO — Response Status: 200
+2025-08-28 09:16:23,969 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockAdjustments/199f5ef9-84a5-4a2e-abc1-151d96f32f43/items
+2025-08-28 09:16:24,133 — INFO — Response Status: 200
+2025-08-28 09:16:24,135 — INFO — 🚫 Skipped deleted product UUID: acbb2234-5522-493a-99bc-dbfbb19fef69
+2025-08-28 09:16:24,135 — INFO — 🚫 Skipped deleted product UUID: 72a9c0f1-a1dc-4579-b4db-954af1a78939
+2025-08-28 09:16:24,135 — INFO — 🚫 Skipped deleted product UUID: b073a43e-12a2-4101-9d67-4bb30c932223
+2025-08-28 09:16:24,136 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockAdjustments/ec15bf85-02d5-4893-b22a-4ea775010ac8/items
+2025-08-28 09:16:24,267 — INFO — Response Status: 200
+2025-08-28 09:16:24,269 — INFO — 🚫 Skipped deleted product UUID: 7c1d3d82-866a-4ab7-bc51-2c45a54a3db0
+2025-08-28 09:16:24,269 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts
+2025-08-28 09:16:25,614 — INFO — Response Status: 200
+2025-08-28 09:16:25,689 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts?page=2
+2025-08-28 09:16:26,321 — INFO — Response Status: 200
+2025-08-28 09:16:26,376 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/62a12e45-8018-469d-875f-47bdfcac4321
+2025-08-28 09:16:26,527 — INFO — Response Status: 200
+2025-08-28 09:16:26,528 — INFO — 🚫 Skipped deleted product UUID: 850d698b-f88b-438f-9a51-d0411fe15593
+2025-08-28 09:16:26,532 — INFO — 🚫 Skipped deleted product UUID: d4845bdc-4cda-42a4-93b0-60ba06cd2289
+2025-08-28 09:16:26,532 — INFO — 🚫 Skipped deleted product UUID: b657f136-7aff-4bda-851d-a5bb54a446ce
+2025-08-28 09:16:26,532 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/79a88cd1-8198-477c-b872-e8e077faf1c1
+2025-08-28 09:16:26,724 — INFO — Response Status: 200
+2025-08-28 09:16:26,726 — INFO — 🚫 Skipped deleted product UUID: 850d698b-f88b-438f-9a51-d0411fe15593
+2025-08-28 09:16:26,726 — INFO — 🚫 Skipped deleted product UUID: b657f136-7aff-4bda-851d-a5bb54a446ce
+2025-08-28 09:16:26,726 — INFO — 🚫 Skipped deleted product UUID: e23b0d38-7571-426c-b05f-ada8e5db8e07
+2025-08-28 09:16:26,726 — INFO — 🚫 Skipped deleted product UUID: acbb2234-5522-493a-99bc-dbfbb19fef69
+2025-08-28 09:16:26,726 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/80e0a578-c9c4-4568-9753-5ba2a1cea559
+2025-08-28 09:16:26,910 — INFO — Response Status: 200
+2025-08-28 09:16:26,911 — INFO — 🚫 Skipped deleted product UUID: 72a9c0f1-a1dc-4579-b4db-954af1a78939
+2025-08-28 09:16:26,912 — INFO — 🚫 Skipped deleted product UUID: b657f136-7aff-4bda-851d-a5bb54a446ce
+2025-08-28 09:16:26,912 — INFO — 🚫 Skipped deleted product UUID: acbb2234-5522-493a-99bc-dbfbb19fef69
+2025-08-28 09:16:26,912 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/96f671d9-72bd-433a-944d-a294a26f131e
+2025-08-28 09:16:27,101 — INFO — Response Status: 200
+2025-08-28 09:16:27,103 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/c7df844c-5627-44c0-a851-1d504a46c08d
+2025-08-28 09:16:27,290 — INFO — Response Status: 200
+2025-08-28 09:16:27,293 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/f2a3682f-a4eb-42d0-ad61-fdacac941e23
+2025-08-28 09:16:27,448 — INFO — Response Status: 200
+2025-08-28 09:16:27,449 — INFO — 🚫 Skipped deleted product UUID: 043ddf94-257b-42a1-a1a6-695bba74c2b8
+2025-08-28 09:16:27,450 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/f8228d00-5c09-422f-bedc-941c55f3c24e
+2025-08-28 09:16:27,634 — INFO — Response Status: 200
+2025-08-28 09:16:27,636 — INFO — 🚫 Skipped deleted product UUID: 954f2fc7-d353-46c8-84e8-ac88d31a2ad2
+2025-08-28 09:16:27,636 — INFO — 🚫 Skipped deleted product UUID: 72a9c0f1-a1dc-4579-b4db-954af1a78939
+2025-08-28 09:16:27,636 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/fd9f6072-f73a-4b6c-a521-ed7fc3e565e2
+2025-08-28 09:16:27,822 — INFO — Response Status: 200
+2025-08-28 09:16:27,824 — INFO — 🚫 Skipped deleted product UUID: c70b30ef-8fb3-4a21-9131-f92503f561e7
+2025-08-28 09:16:27,824 — INFO — 🚫 Skipped deleted product UUID: 850d698b-f88b-438f-9a51-d0411fe15593
+2025-08-28 09:16:27,824 — INFO — 🚫 Skipped deleted product UUID: d4845bdc-4cda-42a4-93b0-60ba06cd2289
+2025-08-28 09:16:27,824 — INFO — 🚫 Skipped deleted product UUID: b657f136-7aff-4bda-851d-a5bb54a446ce
+2025-08-28 09:16:27,824 — INFO — 🚫 Skipped deleted product UUID: 72a9c0f1-a1dc-4579-b4db-954af1a78939
+2025-08-28 09:16:27,838 — INFO — ✅ Inventory snapshot saved to /home/brandon/Important/scripts/historicalInventory/inventory_snapshot_hospitality_20240727.xlsx
+2025-08-28 09:16:27,838 — INFO — 📦 Included products: 0
+2025-08-28 09:16:27,838 — INFO — 🗑️ Excluded deleted products: 0
+2025-08-28 09:16:27,838 — INFO — 🚫 Excluded non-tracked products: 0
+2025-08-28 09:16:27,838 — INFO — 🏁 Script completed
+2025-08-28 09:22:02,054 — INFO — 🚀 Script started
+2025-08-28 09:22:02,054 — INFO — Target date set to: 2024-07-27
+2025-08-28 09:22:02,054 — INFO — Organizational Unit filter set to: hospitality
+2025-08-28 09:22:02,056 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/products
+2025-08-28 09:22:02,390 — INFO — Response Status: 200
+2025-08-28 09:22:02,417 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/inventories
+2025-08-28 09:22:02,579 — INFO — Response Status: 200
+2025-08-28 09:22:02,582 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/inventories/ee2f7c33-c0bc-432f-8697-8c330dc46f3e/inventoryLists
+2025-08-28 09:22:02,732 — INFO — Response Status: 200
+2025-08-28 09:22:02,733 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/inventories/ee2f7c33-c0bc-432f-8697-8c330dc46f3e/inventoryLists/0d3e6580-0407-467f-879b-ed363a618fc4/items
+2025-08-28 09:22:02,919 — INFO — Response Status: 200
+2025-08-28 09:22:02,920 — WARNING — 🆕 Initialized product UUID acbb2234-5522-493a-99bc-dbfbb19fef69 with zero inventory
+2025-08-28 09:22:02,921 — INFO — 📦 Inventory recorded for UUID acbb2234-5522-493a-99bc-dbfbb19fef69 at 2024-07-23T14:15:16
+2025-08-28 09:22:02,921 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts
+2025-08-28 09:22:03,196 — INFO — Response Status: 200
+2025-08-28 09:22:03,199 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/2aa07323-e9de-45ec-954e-3a397c61a660/items
+2025-08-28 09:22:03,350 — INFO — Response Status: 204
+2025-08-28 09:22:03,350 — WARNING — No content returned.
+2025-08-28 09:22:03,352 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/445f957b-cac9-40cb-bf8a-5cd7e22f3bdc/items
+2025-08-28 09:22:03,520 — INFO — Response Status: 204
+2025-08-28 09:22:03,521 — WARNING — No content returned.
+2025-08-28 09:22:03,522 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/5905f163-4a07-444c-a4ab-781508e51184/items
+2025-08-28 09:22:03,678 — INFO — Response Status: 204
+2025-08-28 09:22:03,678 — WARNING — No content returned.
+2025-08-28 09:22:03,679 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/70695b9d-cbac-42dc-9d50-862f11e249f4/items
+2025-08-28 09:22:03,810 — INFO — Response Status: 204
+2025-08-28 09:22:03,810 — WARNING — No content returned.
+2025-08-28 09:22:03,812 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/807ca0b7-4c6c-43d8-a7f2-c7e67e0e95f9/items
+2025-08-28 09:22:03,945 — INFO — Response Status: 200
+2025-08-28 09:22:03,947 — WARNING — 🆕 Initialized product UUID c70b30ef-8fb3-4a21-9131-f92503f561e7 with zero inventory
+2025-08-28 09:22:03,947 — INFO — 📥 Receipt added — Time: 2024-07-26T11:29:25, Product: Test (1010), Amount: +1.0
+2025-08-28 09:22:03,947 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/86dee13f-473b-4613-8d57-ae70b7578609/items
+2025-08-28 09:22:04,117 — INFO — Response Status: 204
+2025-08-28 09:22:04,117 — WARNING — No content returned.
+2025-08-28 09:22:04,119 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/a36ebbc0-416e-4d40-8d70-8490a3fa744b/items
+2025-08-28 09:22:04,265 — INFO — Response Status: 204
+2025-08-28 09:22:04,265 — WARNING — No content returned.
+2025-08-28 09:22:04,267 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockReceipts/b6177d04-255f-42e6-a78c-9a67edfb776d/items
+2025-08-28 09:22:04,427 — INFO — Response Status: 200
+2025-08-28 09:22:04,428 — INFO — 📥 Receipt added — Time: 2024-07-26T14:45:11, Product: Test (1010), Amount: +1.0
+2025-08-28 09:22:04,429 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockAdjustments
+2025-08-28 09:22:04,609 — INFO — Response Status: 200
+2025-08-28 09:22:04,611 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockAdjustments/199f5ef9-84a5-4a2e-abc1-151d96f32f43/items
+2025-08-28 09:22:04,761 — INFO — Response Status: 200
+2025-08-28 09:22:04,762 — INFO — 🛠️ Adjustment added — Time: 2024-07-23T15:09:00, Product: A&W (1002), Amount: +3.0
+2025-08-28 09:22:04,763 — WARNING — 🆕 Initialized product UUID 72a9c0f1-a1dc-4579-b4db-954af1a78939 with zero inventory
+2025-08-28 09:22:04,763 — INFO — 🛠️ Adjustment added — Time: 2024-07-23T15:09:00, Product: Burger (1008), Amount: +7.0
+2025-08-28 09:22:04,763 — WARNING — 🆕 Initialized product UUID b073a43e-12a2-4101-9d67-4bb30c932223 with zero inventory
+2025-08-28 09:22:04,763 — INFO — 🛠️ Adjustment added — Time: 2024-07-23T15:09:00, Product: Evian (1004), Amount: +3.0
+2025-08-28 09:22:04,763 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/stockAdjustments/ec15bf85-02d5-4893-b22a-4ea775010ac8/items
+2025-08-28 09:22:04,898 — INFO — Response Status: 200
+2025-08-28 09:22:04,899 — WARNING — 🆕 Initialized product UUID 7c1d3d82-866a-4ab7-bc51-2c45a54a3db0 with zero inventory
+2025-08-28 09:22:04,899 — INFO — 🛠️ Adjustment added — Time: 2024-07-26T10:10:00, Product: Candle (Blue) (1371), Amount: +100.0
+2025-08-28 09:22:04,899 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts
+2025-08-28 09:22:06,186 — INFO — Response Status: 200
+2025-08-28 09:22:06,255 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts?page=2
+2025-08-28 09:22:06,939 — INFO — Response Status: 200
+2025-08-28 09:22:06,989 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/62a12e45-8018-469d-875f-47bdfcac4321
+2025-08-28 09:22:07,144 — INFO — Response Status: 200
+2025-08-28 09:22:07,145 — WARNING — 🆕 Initialized product UUID 850d698b-f88b-438f-9a51-d0411fe15593 with zero inventory
+2025-08-28 09:22:07,146 — INFO — 🧾 Sale recorded — Time: 2024-07-23T13:46:12, Product: Coca Cola (1001), Amount: -1.0
+2025-08-28 09:22:07,146 — WARNING — 🆕 Initialized product UUID d4845bdc-4cda-42a4-93b0-60ba06cd2289 with zero inventory
+2025-08-28 09:22:07,146 — INFO — 🧾 Sale recorded — Time: 2024-07-23T13:46:12, Product: Mars (1007), Amount: -1.0
+2025-08-28 09:22:07,146 — WARNING — 🆕 Initialized product UUID b657f136-7aff-4bda-851d-a5bb54a446ce with zero inventory
+2025-08-28 09:22:07,146 — INFO — 🧾 Sale recorded — Time: 2024-07-23T13:46:12, Product: Flashlight (1009), Amount: -1.0
+2025-08-28 09:22:07,146 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/79a88cd1-8198-477c-b872-e8e077faf1c1
+2025-08-28 09:22:07,324 — INFO — Response Status: 200
+2025-08-28 09:22:07,325 — INFO — 🧾 Sale recorded — Time: 2024-07-23T13:39:47, Product: Coca Cola (1001), Amount: -1.0
+2025-08-28 09:22:07,326 — INFO — 🧾 Sale recorded — Time: 2024-07-23T13:39:47, Product: Flashlight (1009), Amount: -1.0
+2025-08-28 09:22:07,326 — WARNING — 🆕 Initialized product UUID e23b0d38-7571-426c-b05f-ada8e5db8e07 with zero inventory
+2025-08-28 09:22:07,326 — INFO — 🧾 Sale recorded — Time: 2024-07-23T13:39:47, Product: Jelly Belly (1005), Amount: -1.0
+2025-08-28 09:22:07,326 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/80e0a578-c9c4-4568-9753-5ba2a1cea559
+2025-08-28 09:22:07,501 — INFO — Response Status: 200
+2025-08-28 09:22:07,502 — INFO — 🧾 Sale recorded — Time: 2024-07-23T15:11:14, Product: Burger (1008), Amount: -3.0
+2025-08-28 09:22:07,502 — INFO — 🧾 Sale recorded — Time: 2024-07-23T15:11:14, Product: Flashlight (1009), Amount: -1.0
+2025-08-28 09:22:07,502 — INFO — 🧾 Sale recorded — Time: 2024-07-23T15:11:14, Product: A&W (1002), Amount: -3.0
+2025-08-28 09:22:07,503 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/96f671d9-72bd-433a-944d-a294a26f131e
+2025-08-28 09:22:07,685 — INFO — Response Status: 200
+2025-08-28 09:22:07,687 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/c7df844c-5627-44c0-a851-1d504a46c08d
+2025-08-28 09:22:07,843 — INFO — Response Status: 200
+2025-08-28 09:22:07,845 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/f2a3682f-a4eb-42d0-ad61-fdacac941e23
+2025-08-28 09:22:08,026 — INFO — Response Status: 200
+2025-08-28 09:22:08,028 — WARNING — 🆕 Initialized product UUID 043ddf94-257b-42a1-a1a6-695bba74c2b8 with zero inventory
+2025-08-28 09:22:08,028 — INFO — 🧾 Sale recorded — Time: 2024-07-26T16:37:46, Product: Ferris Wheel Ticket (1379), Amount: -1.0
+2025-08-28 09:22:08,029 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/f8228d00-5c09-422f-bedc-941c55f3c24e
+2025-08-28 09:22:08,197 — INFO — Response Status: 200
+2025-08-28 09:22:08,199 — WARNING — 🆕 Initialized product UUID 954f2fc7-d353-46c8-84e8-ac88d31a2ad2 with zero inventory
+2025-08-28 09:22:08,199 — INFO — 🧾 Sale recorded — Time: 2024-07-23T13:42:13, Product: Red Bull (1003), Amount: -1.0
+2025-08-28 09:22:08,199 — INFO — 🧾 Sale recorded — Time: 2024-07-23T13:42:13, Product: Burger (1008), Amount: -1.0
+2025-08-28 09:22:08,199 — INFO — Calling API: https://185.koronacloud.com/web/api/v3/accounts/773fef1e-a09f-43fd-a82b-5cc65bbdc03d/receipts/fd9f6072-f73a-4b6c-a521-ed7fc3e565e2
+2025-08-28 09:22:08,357 — INFO — Response Status: 200
+2025-08-28 09:22:08,359 — INFO — 🧾 Sale recorded — Time: 2024-07-25T10:10:48, Product: Test (1010), Amount: -1.0
+2025-08-28 09:22:08,359 — INFO — 🧾 Sale recorded — Time: 2024-07-25T10:10:48, Product: Coca Cola (1001), Amount: -1.0
+2025-08-28 09:22:08,359 — INFO — 🧾 Sale recorded — Time: 2024-07-25T10:10:48, Product: Mars (1007), Amount: -1.0
+2025-08-28 09:22:08,359 — INFO — 🧾 Sale recorded — Time: 2024-07-25T10:10:48, Product: Flashlight (1009), Amount: -1.0
+2025-08-28 09:22:08,359 — INFO — 🧾 Sale recorded — Time: 2024-07-25T10:10:48, Product: Burger (1008), Amount: -1.0
+2025-08-28 09:22:08,372 — INFO — ✅ Inventory snapshot saved to /home/brandon/Important/scripts/historicalInventory/inventory_snapshot_hospitality_20240727.xlsx
+2025-08-28 09:22:08,372 — INFO — 📦 Included products: 11
+2025-08-28 09:22:08,372 — INFO — 🗑️ Excluded deleted products: 0
+2025-08-28 09:22:08,372 — INFO — 🚫 Excluded non-tracked products: 0
+2025-08-28 09:22:08,372 — INFO — 🏁 Script completed
